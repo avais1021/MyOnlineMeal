@@ -1,0 +1,105 @@
+    
+    
+    .logo img{
+        width: 50px;
+        padding:14px 0 0 0;
+    }
+    .first{
+        height: 382px;
+    }
+    .first::before{
+        height:382px;
+    }
+    .first a{
+        font-size: 1rem;
+    }
+    .first p{
+        text-align: center;
+    }
+    
+    
+    .ordering{
+        /* display: flex; */
+        flex-direction: column;
+        height: 147vh ;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section-2{ 
+        height: 195vh;
+    }
+    .section-2::before{
+        
+        height: 195vh;
+    }
+    .a{
+      
+    margin-top: 31px;
+    margin-left: 0;
+    }
+    .our{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .food-h1{
+        /* margin-left: 37%; */
+    }
+    .logosimg{
+    width: 83px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+
+    }
+    .logos5{
+        margin-top: auto;
+        margin-bottom: auto;
+        flex-wrap: wrap;
+        margin: auto;
+
+    }
+    .section3{
+        height: 421px;
+    }
+    .section3::before{
+        height: 421px;
+    }
+    .section3 h1{
+        padding-bottom: 20px;
+    }
+    
+    /* .contact-box{
+        overflow: hidden;
+    } */
+    /* input,textarea{
+        width: 100%;
+        
+      
+    } */
+    /* .name{
+        margin-left: 34px;
+        
+    } */
+    .navbar{
+        
+        flex-direction: column;
+        height: 18vh;
+    }
+    .navbar::before{
+        height: 18vh;
+    }
+    ul{
+
+    }
+    li a{
+        font-size: 13px;
+        align-items: center;
+        padding: 0 0px;
+    }
+    .first h1{
+        font-size: 1.5rem;
+        display: block;
+        margin-top: 40px;
+    }

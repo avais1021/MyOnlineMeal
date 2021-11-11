@@ -65,7 +65,7 @@ li a:hover{
     /* top: 0; left:0; */
     width: 100%;
     height: 300px;
-    background: url(/images/top.webp) no-repeat center center/cover;
+    background: url(images/top.webp) no-repeat center center/cover;
    
     z-index: -1;
 }
@@ -107,7 +107,7 @@ li a:hover{
     content: "";
     width: 100%;
     height: 63vh;
-    background: url(/images/kotmeer.webp);
+    background: url(images/kotmeer.webp);
     z-index: -1;
     opacity: 0.6;
 }
@@ -175,7 +175,7 @@ img{
     content: "";
     width: 100%;
     height: 300px;
-    background: url(/images/olive-oil-968657_960_720.webp);
+    background: url(images/olive-oil-968657_960_720.webp);
     z-index: -1;
     opacity: 0.5;
 }
@@ -218,7 +218,7 @@ img{
     content: "";
     width: 100%;
     height: 100%;
-    background: url(/images/contact.jpg);
+    background: url(images/contact.jpg);
     z-index: -1;
 }
 .section4 h1{

@@ -21,7 +21,6 @@
     .ordering{
         /* display: flex; */
         flex-direction: column;
-        height: 147vh ;
         margin-left: auto;
         margin-right: auto;
     }
